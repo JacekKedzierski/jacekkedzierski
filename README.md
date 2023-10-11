@@ -5,4 +5,3 @@ I'm a dedicated scientist who has successfully earned a Ph.D. degree in Computat
 - 🔭 I’m currently working on Free Energy Calculations
 - 🌱 I’m currently learning CUDA and OpenCL
 - 👯 I’m looking to for a reaserch scientist position
--->
